@@ -3,8 +3,17 @@ h1{
 }
 body{
   background-image: url("http://walldiskpaper.com/wp-content/uploads/2014/09/HD-Wallpaper-Skull-HD.jpg");
+  background-size:900px 1000px;
   color:silver;
 }
 .qs {
   color: red;
+}
+#script {
+  margin: auto;
+   width: 50%;
+   border: 3px solid green;
+   padding: 10px;
+
+  align-items: center;
 }
