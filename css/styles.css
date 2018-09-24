@@ -9,7 +9,7 @@ body{
 .qs {
   color: red;
 }
-#script {
+.container{
   margin: auto;
    width: 50%;
    border: 3px solid silver;
